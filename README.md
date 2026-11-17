@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Guilherme 👋
 
-<!--
-**GuilhermeRodr1gues/GuilhermeRodr1gues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm on a journey to become a **Data Engineer**, building a strong foundation in **Python** and **SQL**.
 
-Here are some ideas to get you started:
+- 🔭 Currently studying **CS50's Introduction to Programming with Python (CS50P)**, Harvard University
+- 📚 Deepening my knowledge of **SQL**, database modeling, and query optimization
+- 🎯 Goal: working as a **Data Engineer**, building **ETL/ELT pipelines** and data-driven systems
+- 🌍 Open to **remote opportunities**, working with international teams
+- 🗣️ Intermediate-to-advanced **English**, comfortable working and communicating in English
+- 💬 Ask me about: Python fundamentals, SQL, data modeling, or how I'm structuring my learning path
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I'm working with
+
+`Python` · `SQL` · `Git & GitHub` · `PostgreSQL` · `MySQL`
+
+## 📌 What I'm building next
+
+- ETL pipelines combining **Python** and **SQL**
+- Projects using **pandas**, APIs, and relational databases
+- A portfolio that reflects real problem-solving, not just tutorials
+
+## 📫 Let's connect
+
+- LinkedIn: [guilherme-rodrigues-87952a288](https://www.linkedin.com/in/guilherme-rodrigues-87952a288/)
+- Email: guilherme.rechi06@gmail.com
